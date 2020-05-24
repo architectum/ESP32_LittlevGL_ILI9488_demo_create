@@ -14,3 +14,4 @@
   to<br>
   #define LV_USE_DEMO 1<br>
   
+Note : This demo is for LittleVGL version v6.1.1
